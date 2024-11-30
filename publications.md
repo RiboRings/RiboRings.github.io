@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Publications"
 permalink: /publications/
+---
 
 Journal articles:
 - Khalighi, M., Benedetti, G., & Lahti, L. (2024). Algorithm 1047: FdeSolver, a
