@@ -10,6 +10,9 @@ Journal articles:
   on Mathematical Software_, 50(3), 1-23. doi: <https://doi.org/10.1145/3680280>
 
 Posters:
+- Benedetti, G. et al. (2024). Decoding executive functions from MEG neural
+  oscillations in childhood. _Jyväskylä Brain & Mind Annual Meeting 2024_. url:
+  <https://github.com/RiboRings/NeuroData/blob/main/posters/041224_CIBR_poster.pdf>
 - Benedetti, G. et al. (2024). iSEEtree: an R package for the interactive
   visualisation of microbiome data. _European Conference of Computational
   Biology 2024_. url: <https://github.com/microbiome/outreach/blob/main/posters/20240918_ECCB/20240918_iSEEtree_poster.pdf>
